@@ -13,7 +13,7 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 - `Cypress` 
 - `Testing Library`
 
-## 🦄 Features
+## Features
 
 Here's what you can do with NinjaSketch:
 
@@ -27,7 +27,7 @@ Here's what you can do with NinjaSketch:
 
 - **Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
 
-### 🎯 Keyboard Shortcuts:
+### Keyboard Shortcuts:
 
 Speed up your work with these shortcuts:
 
@@ -53,7 +53,7 @@ Along the way, while building everything, I took notes on what I've learned so I
 
 This way, I understood what I've built. The funny thing is, as soon as I started to document what happened behind the scenes and the features I've added, it made me realize that we fully understand something once we've actually taken a step back, thought about it, and documented what we've done. I think this is a good practice to follow when learning something new.
 
-## 📚 What I Learned
+## What I Learned
 
 During this project, I've picked up important skills and a better understanding of complex ideas, which improved my logical thinking.
 
@@ -90,16 +90,6 @@ During this project, I've picked up important skills and a better understanding 
 
 Each part of this project helped me understand more about building apps, managing complex information, and improving user experience. It was more than just making a tool. It was about solving problems, learning new things, and improving my skills for future work.
 
-## 💭 How can it be improved?
-
-- Add more colors to the color picker.
-- Add more tools like a circle, eraser, and more.
-- Add more shapes like triangles, stars, and more.
-- Add more keyboard shortcuts to make things faster.
-- Add more themes like dark mode, light mode, and more.
-- Add more text options like font size, font color, and more.
-- Instead of have any in two places, create a type for the rough.js elements.
-
 ## 🚦 Running the Project
 
 To run the project in your local environment, follow these steps:
@@ -108,7 +98,3 @@ To run the project in your local environment, follow these steps:
 2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
-
-## 🍿 Video
-
-https://github.com/mirayatech/NinjaSketch/assets/71933266/6a16c9e5-6380-4317-96e7-d132768f7b40
