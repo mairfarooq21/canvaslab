@@ -2,7 +2,6 @@ import Tippy from "@tippyjs/react";
 import "tippy.js/dist/tippy.css";
 import "./control-panel-style.css";
 import { PiMinus, PiPlus } from "react-icons/pi";
-import { FiGithub } from "react-icons/fi";
 import {
   HiOutlineArrowUturnLeft,
   HiOutlineArrowUturnRight,
