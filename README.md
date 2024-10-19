@@ -11,15 +11,15 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 
 ## Features
 
-- **Choose a Tool**: You have pencils, lines, rectangles, and text tools. Pick one and start creating.
+**Choose a Tool**: You have pencils, lines, rectangles, and text tools. Pick one and start creating.
 
-- **Draw and Move**: Click and drag on the canvas to draw. To move something, select it and drag it to a new spot. Also, resize elements by dragging the corners. Resizing only works on rectangles or lines.
+**Draw and Move**: Click and drag on the canvas to draw. To move something, select it and drag it to a new spot. Also, resize elements by dragging the corners. Resizing only works on rectangles or lines.
 
-- **Edit Text**: Click on the canvas and start typing to add text to your drawings. You can also edit existing text.
+**Edit Text**: Click on the canvas and start typing to add text to your drawings. You can also edit existing text.
 
-- **Zoom**: Use Ctrl + Scroll or click on the buttons to zoom in for detail or out to see the whole picture.
+**Zoom**: Use Ctrl + Scroll or click on the buttons to zoom in for detail or out to see the whole picture.
 
-- **Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
+**Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
 
 ## 👩🏽‍🍳 The Process
 
