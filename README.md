@@ -6,6 +6,7 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 
 - React.js
 - CSS
+- TypeScript
 - Rough.js
 
 ## Features
