@@ -23,16 +23,6 @@ Here's what you can do with NinjaSketch:
 
 - **Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
 
-### Keyboard Shortcuts:
-
-Speed up your work with these shortcuts:
-
-- **Canvas Navigation**: Press the Space bar and drag or use the middle mouse button.
-- **Undo**: Ctrl + Z.
-- **Redo**: Ctrl + Y or Ctrl + Shift + Z.
-- **Zoom In**: Ctrl + Plus.
-- **Zoom Out**: Ctrl + Minus.
-
 ## 👩🏽‍🍳 The Process
 
 I started by rendering a canvas with rough.js to create the base for all the drawings. Then, I focused on drawing on the canvas, allowing users to make lines, rectangles, and other shapes.
