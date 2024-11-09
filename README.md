@@ -2,7 +2,7 @@
 
 CanvasLab is a drawing application using React and TypeScript, incorporating Rough.js to achieve a sketchy, hand-drawn aesthetic. This side project was created for learning purposes, and while the app is not responsive, I concentrated on enhancing its functionalities, as I already have numerous responsive projects in my portfolio.
 
-## 📦 Technologies
+## Technologies
 
 - React.js
 - CSS
@@ -21,7 +21,7 @@ CanvasLab is a drawing application using React and TypeScript, incorporating Rou
 
 **Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
 
-## 🚦 Running the Project
+## Running the Project
 
 To run the project in your local environment, follow these steps:
 
